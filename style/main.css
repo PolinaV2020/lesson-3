@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper-profits {
+  text-align: center;
+  height: 594px;
+  font-family: "Open Sans", "Tahoma", sans-serif;
+}
+
+/* Header styles */
+
+.title {
+  text-align: center;
+  padding-top: 100px;
+  font-family: "Raleway", "Tahoma", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.line {
+  margin: 25px auto 30px;
+  width: 64px;
+  height: 2px;
+  border: none;
+  background-color: #E72424;
+}
+
+.subtitle {
+  padding-bottom: 67px;
+  color: #86878B;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+ /*Cards styles*/
+
+.card {
+  display: inline-block;
+  margin: 0 16px;
+  width: 350px;
+}
+
+.icon {
+  margin: 0 auto 30px;
+  height: 70px;
+  width: 70px;
+  border: 1px solid #E72424;
+  border-radius: 50%;
+  background: #ffffff;
+}
+
+.icon-lamp {
+  background: url(../img/lamp.png) center no-repeat;
+}
+
+.icon-keyboard {
+  background: url(../img/keyboard.png) center no-repeat;
+}
+
+.icon-lightning {
+  background: url(../img/lightning.png) center no-repeat;
+}
+
+
+.card-title {
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #333333;
+}
+
+.description {
+  text-align: center;
+  width: 350px;
+  color: #000000;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+/* Download section styles*/
+
+.title--download {
+  padding-top: 76px;
+  color: #FFFFFF;
+}
+
+.line--download {
+  padding: 48px auto 30px;
+  background-color: #FFFFFF;
+}
+
+
+.subtitle--download {
+  text-align: center;
+  padding-bottom: 30px;
+  opacity: 0.8;
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+
+.main-download {
+  height: 326px;
+  background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../img/bg-download.png');
+}
+
+
+.form-download {
+  text-align: center;
+}
+
+.download-button {
+  width: 135px;
+  height: 42px;
+  color: #FFFFFF;
+  font-size: 15px;
+  background-color: transparent;
+  border: 1px solid #FFFFFF;
+}
+
+
+/* Contacts icon styles*/
+
+
+.contacts-icons {
+  text-align: center;
+  height: 101px;
+  background-color: #000000;
+}
+
+
+.icons-item {
+  display: inline-block;
+  margin: 30px auto 18px;
+  height: 23px;
+  width: 45px;
+  background-image: url(../img/contacts.png);
+  background-repeat: no-repeat;
+}
+
+
+.facebook {
+  background-position: left;
+}
+
+
+.twitter {
+  background-position: -45px;
+}
+
+
+.google {
+  background-position: -90px;
+}
+
+
+.pintrest {
+  background-position: -135px;
+}
+
+
+.instagram {
+  background-position: -180px;
+}
+
+
+.stumble-upon {
+  background-position: -225px;
+}
+
+
+.rss {
+  background-position: -270px;
+}
+
+
+.copyright {
+  padding-bottom: 15px;
+  color: #FFFFFF;
+  font-size: 12px;
+  opacity: 0.5;
+}
+
+
+
